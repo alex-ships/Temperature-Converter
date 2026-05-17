@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(175, 115, 115);
+}
+
+.container{
+    background-color: rgb(119, 140, 140);
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 12px;
+    width: 300px;
+    height: 400px;
+}
+select{
+    width: 100%;
+    padding: 5px;
+    border-radius: 8px;
+}
+input{
+    width: 100%;
+    padding: 5px;
+    color: rgb(231, 132, 12);
+    background-color: rgb(4, 15, 26);
+    font-size: large;
+    border-radius: 8px;
+}
+#btn{
+    width: 150px;
+    height: 50px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgb(90, 127, 163);
+    align-items: center;
+}
+#btn:hover{
+    background-color: rgb(90, 127, 163);
+    color: white;
+    cursor: pointer;
+    font-size: large;
+}   
